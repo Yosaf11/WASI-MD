@@ -27,7 +27,7 @@ global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://te
 
 global.devs = "923192173398" // Developer Contact
 global.sudo = process.env.SUDO ? process.env.SUDO.replace(/[\s+]/g, '') : "null";
-global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '') : "923192173398";
+global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '') : "923115971525";
 
 
 
@@ -73,10 +73,10 @@ module.exports = {
   VERSION : process.env.VERSION || "V.1.0.0",
   caption : process.env.CAPTION || "𝙵𝙸𝙻𝙴 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 YOUSAF KHAN 🚩" , // ```『 ²⁴ YOUSAF BALOCH』```", //*『YOUSAF KHAN』*\n https://youtube.com/@Y.BGamer110"),
  
-  author : process.env.PACK_AUTHER|| "𝗪𝗔𝗦𝗜 ",
-  packname: process.env.PACK_NAME || "♥️",
-  botname : process.env.BOT_NAME  || "𝗪𝗔𝗦𝗜 𝗠𝗗",
-  ownername:process.env.OWNER_NAME|| "It's 𝗜𝗧𝗫𝗫𝗪𝗔𝗦𝗜",
+  author : process.env.PACK_AUTHER|| "MUSA APNI PICTURE KA FREE STICKER BANWANY KY LEAYEA CONTACT ME 03115971525,,03075134110",
+  packname: process.env.PACK_NAME || "YOUSAF KHAN BALOCH ♥️",
+  botname : process.env.BOT_NAME  || "YOUSAF BALOCH",
+  ownername:process.env.OWNER_NAME|| "YOUSAF KHAN BALOCH ",
 
 
   errorChat : process.env.ERROR_CHAT || "",
